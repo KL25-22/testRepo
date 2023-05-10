@@ -1,9 +1,2 @@
-{
-  "data":
-  [
-    {
-      "username"="AWSVASDASDASDASDAS",
-      "password"="askjhdakjshdkaj"
-    }
-    ]
-}
+"username"="AWSVASDASDASDASDAS",
+ "password"="askjhdakjshdkaj"
